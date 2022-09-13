@@ -1,6 +1,8 @@
 # AndroidAssembly
 AndroidAssembly是一个Android组件化相关Demo，源码中仅包含组件化实现相关的逻辑，并不提供其他相关功能实现。
 
+[组件化对应文章学习](https://mp.weixin.qq.com/s/eLGEWvHtyqtvrtScr6Doog)
+
 ## AndroidAssembly相关功能Demo效果图
 
 <img src="images/device.png" width="200px" />

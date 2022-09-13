@@ -10,9 +10,17 @@ import com.alibaba.android.arouter.facade.template.IProvider
  */
 interface AccountUserService : IProvider {
 
+    /**
+     * AUTHOR:AbnerMing
+     * INTRODUCE:获取用户信息
+    */
     fun getUser(): UserInfo?
 
 
+    /**
+     * AUTHOR:AbnerMing
+     * INTRODUCE:测试弹出Dialog
+    */
     fun showDialog()
 
 }
